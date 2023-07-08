@@ -14,7 +14,7 @@ This is a MERN stack (MongoDB, Express.js, React.js, Node.js) application that s
 
 ## License
 
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
 Link: [MIT License](https://opensource.org/licenses/MIT)
 
@@ -33,4 +33,5 @@ The starter code was provided by the bootcamp but I refactored some code to conv
 ## Questions
 
 Github: https://github.com/Ani-Kandikattu
+
 Link to Repository: https://github.com/Ani-Kandikattu/mern-book-search
